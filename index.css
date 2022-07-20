@@ -1,0 +1,39 @@
+.main{
+    position:relative;
+}
+.web{
+    background-color: #128C7E;
+    min-height: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    
+}
+.mine{
+    height: 30px;
+    width: 30px;
+    margin-top: 8px;
+}
+.contact{
+    background-color:#ffffff;
+    min-height: 600px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.contacttablescroll{
+    overflow-y: scroll;
+
+    min-height: 600px;
+    }
+    .message-box{
+        background-color: #ffffff;
+        min-height: 600px;
+
+    }
+    .messagetablescroll{
+        overflow-y: scroll;
+        height: 550px;
+    }
+    .message-box{
+        background-color: #ffffff;
+       }
